@@ -50,7 +50,7 @@ Update buku Berpikir Positif untuk Hidup Sehat karya Dian L.
 - 18 → [[Dian, 2016, 18-Berpikir untuk melatih proses kimia dalam otak]]
 - 20 → Descartes ~ “Aku berpikir maka aku ada” 
 	- Pikiranlah yang membuat manusia menjadi eksis, menjadi ada, membuat keberadaan manusia jadi diakui. Jika manusia tidak berpikir, maka bisa jadi manusia akan hilang lenyap, kosong, dan hanya akan menjadi debu yang melayang-layang di udara.
-- 21 → [[Dian, 2016, 21 - Hitler membunuh dengan permainan pikiran dan psikologi]]
+- 21: kisah Hitler yang menghukum prajuritnya dengan mengacaukan pikirannya hingga tewas → [[Dian, 2016, 21 - Hitler membunuh dengan permainan pikiran dan psikologi]]
 - 26 → Melatih pikiran bawah sadar
 	- [[Dian, 2016, 26-Melatih pikiran bawah sadar]]
 - 31 → Melatih kontrol pikiran sadar

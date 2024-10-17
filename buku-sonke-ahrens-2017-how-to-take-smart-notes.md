@@ -15,6 +15,7 @@ aliases:
   - How to Take Smart Notes
   - Ahrens, 2017
   - How to Take Smart Notes karya Sönke Ahrens
-tags:
+tags: 
+date: 2024-10-16
 ---
-Daftar catatan dari buku 
+Daftar catatan dari buku How to Take Smart Notes karya Sonke Ahrens.

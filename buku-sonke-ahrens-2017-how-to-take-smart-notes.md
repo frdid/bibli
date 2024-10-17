@@ -18,4 +18,4 @@ aliases:
 tags: 
 date: 2024-10-16
 ---
-Daftar catatan dari buku How to Take Smart Notes karya Sonke Ahrens.
+Daftar catatan dari buku How to Take Smart Notes karya Sonke Ahrens. Saya mengubah catatan yang ada di Bibliografi.

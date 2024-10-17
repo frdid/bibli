@@ -1,18 +1,21 @@
 ---
-tags:
-  - resources/book
 title: Berpikir Positif untuk Hidup Positif
+description: 
+permalink: 
 aliases:
   - Berpikir Positif untuk Hidup Positif
-c_creator:
-  - Dian L.
+tags:
+  - buku
 publisher: Pustaka Baru Press
 publish: 2016-09-06
+c_creator:
+  - Dian L.
 total: "244"
 isbn: "9786023760374"
 cover: https://cdn.gramedia.com/uploads/items/9786023760374_berpikir_positif_untuk_hidup_positif.jpg
 status: read
-indexes: []
+indexes: 
+date: 2024-10-01
 ---
 Update buku Berpikir Positif untuk Hidup Sehat karya Dian L. 
 

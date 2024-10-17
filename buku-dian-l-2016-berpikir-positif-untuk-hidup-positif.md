@@ -14,6 +14,10 @@ cover: https://cdn.gramedia.com/uploads/items/9786023760374_berpikir_positif_unt
 status: read
 indexes: []
 ---
+Update buku Berpikir Positif 
+
+---
+
 - 2  → James Allan: Pikiran → cara orang menentukan pilihannya
 	- James Allan sempat mengatakan, pikiran adalah cara orang menentukan pilihannya. Sementara itu, dalam ilmu psikologi-sosial, para ilmuwan mendefinisikan pikiran sebagai bagian terpenting yang membedakan manusia dari binatang, tumbuhan dan benda mati.
 - 3 → Anatomy of Brain 

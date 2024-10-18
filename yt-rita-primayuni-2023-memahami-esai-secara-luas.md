@@ -4,7 +4,8 @@ description:
 permalink: 
 aliases:
   - Rita Primayuni, 2023, Esai Secara Luas
-tags: 
+tags:
+  - video
 draft: false
 date: 2024-10-16
 indexes:

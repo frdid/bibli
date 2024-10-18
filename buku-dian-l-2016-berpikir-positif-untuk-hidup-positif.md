@@ -16,6 +16,7 @@ cover: https://cdn.gramedia.com/uploads/items/9786023760374_berpikir_positif_unt
 status: read
 indexes: 
 date: 2024-10-01
+draft: false
 ---
 Update buku Berpikir Positif untuk Hidup Sehat karya Dian L. 
 

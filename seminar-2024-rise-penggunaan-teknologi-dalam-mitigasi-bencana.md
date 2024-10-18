@@ -7,7 +7,6 @@ aliases:
 tags: 
 draft: 
 date: 
-posted: 
 indexes:
 ---
 Catatan dari event webinar yang diadakan oleh Rise dengan topik Penggunaan Teknologi dalam Mitigasi Bencana

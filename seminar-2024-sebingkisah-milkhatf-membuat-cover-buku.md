@@ -8,8 +8,7 @@ aliases:
   - "Seminar Sebingkisah x Milkhatf: Membuat Cover Buku"
 tags: 
 draft: 
-date: 
-posted:
+date:
 ---
 Tanggal 28 Juni 2024, Sebingkisah mengadakan webinar bersama Milkhatf dengan topik menggambar cover buku, berikut adalah catatannya:
 

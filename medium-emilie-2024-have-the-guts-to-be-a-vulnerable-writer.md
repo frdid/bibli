@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Have The Guts to Be a Vulnerable Writer
 tags: 
-draft: false
+draft: true
 date: 2024-10-14
 c_url: https://medium.com/word-garden/have-the-guts-to-be-a-vulnerable-writer-0f2c3e636bda
 c_creator:

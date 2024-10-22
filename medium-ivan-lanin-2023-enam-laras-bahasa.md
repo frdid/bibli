@@ -24,7 +24,9 @@ c_url: https://ivanlanin.medium.com/enam-laras-bahasa-1de622fc3973
 | Kalimat        | Fleksibel            | Pendek                         | Pendek                             | Sedang                   | Panjang                     | Panjang                     |
 | Kata           | Luwes                | Santai                         | Populer                            | Baku, teknis             | Baku, ilmiah                | Beku                        |
 | Ejaan          | Kreatif              | Kreatif                        | Tertib                             | Tertib                   | Tertib                      | Tertib                      |
+
 Catatan: Makin ke kiri makin lentur, makin ke kanan makin kaku. 
+
 
 - Bahasa Media Sosial
 	- Media sosial menimbulkan kebingungan bagi media dalam berbahasa, kaku salah, lentur salah.

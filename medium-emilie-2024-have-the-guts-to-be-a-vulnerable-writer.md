@@ -11,6 +11,7 @@ c_url: https://medium.com/word-garden/have-the-guts-to-be-a-vulnerable-writer-0f
 c_creator:
   - Emilie
 c_published: 2024-07-29
+c_platform: Medium
 accessed: 2024-09-24
 indexes:
   - "[[cm-kepenulisan|MOC Kepenulisan]]"

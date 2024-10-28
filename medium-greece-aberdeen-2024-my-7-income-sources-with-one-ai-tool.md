@@ -1,11 +1,12 @@
 ---
-title: My 7 Income Sources With One AI Tool
-description: 
+title: My 7 Income Sources With One AI Tool | Greece Aberdeen
+description: Greece Aberdeen memiliki tujuh sumber penghasilan dengan memanfaatkan satu platform AI.
 permalink: 
 aliases:
   - My 7 Income Sources With One AI Tool
-tags: 
-draft: true
+tags:
+  - bisnis
+draft: false
 date: 2024-10-23
 indexes: 
 c_creator:

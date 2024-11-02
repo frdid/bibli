@@ -1,7 +1,7 @@
 ---
 title: Obsidian Daily Note roll-up (Weekly, Monthly, Quarterly, and Yearly) - Full setup from scratch!
 description: 
-permalink: 
+permalink: yt-obsidian-journal-by-dee
 aliases:
   - Obsidian Journal by Dee
 tags: 
@@ -22,7 +22,7 @@ c_published: 2024-08-23
 	- Journal
 		- 01 Daily
 		- 02 Weekly
-		- 03 Monthly
+		- 03 Monthly 
 		- 04 Quarterly
 		- 05 Yearly
 	- Notes
@@ -123,7 +123,7 @@ c_published: 2024-08-23
 	- Default location for new attachments: `In the folder specified below`
 	  Attachment folder path: `Attachments`
 
-> [! note] Weekly Note Template
+> [!note] Weekly Note Template
 > [42:25](https://www.youtube.com/watch?t=2545&v=m5SYja0V29w) Cek fail templat berikut: [[8.3b-journal-plugin-weekly-note-template-by-dee|Weekly Note Template by Dee]]
 > - [44:07](https://www.youtube.com/watch?t=2647&v=m5SYja0V29w) Fungsi kode untuk menampilkan semua gambar
 > - [44:24](https://www.youtube.com/watch?t=2664&v=m5SYja0V29w) Fungsi highlight, sesuatu yang bermakna, hal yang tidak ingin di lupakan
@@ -147,7 +147,7 @@ c_published: 2024-08-23
 
 
 [1:15:25](https://www.youtube.com/watch?t=4525&v=m5SYja0V29w) Monthly
-> [! note] Monthly Note Template
+> [!note] Monthly Note Template
 > [1:15:39](https://www.youtube.com/watch?t=4539&v=m5SYja0V29w) Cek fail templat berikut: [[8.3c-journal-plugin-monthly-note-template-by-dee|Monthly Note Template by Dee]]
 > - [1:17:38](https://www.youtube.com/watch?t=4658&v=m5SYja0V29w) Stand-out days: Untuk jurnal harian yang mempunyai alias
 > - Potongan code untuk Wheel of life dan statistic mirip seperti weekly note
@@ -155,20 +155,20 @@ c_published: 2024-08-23
 
 
 [1:30:15](https://www.youtube.com/watch?t=5415&v=m5SYja0V29w) Quarterly
-> [! note] Quarterly Note Template
+> [!note] Quarterly Note Template
 > [1:30:31](https://www.youtube.com/watch?t=5431&v=m5SYja0V29w) Cek fail templat berikut: [[8.3d-journal-plugin-quarterly-note-template-by-dee|Quarterly Note Template by Dee]]
 > Templat mirip montly template, hanya beberapa penyesuaian pada tanggal dan gambar.
 > 
 
 
 [1:36:34](https://www.youtube.com/watch?t=5794&v=m5SYja0V29w) Yearly
-> [! note] Yearly Note Template
+> [!note] Yearly Note Template
 > [1:36:42](https://www.youtube.com/watch?t=5802&v=m5SYja0V29w) Cek fail templat berikut: [[8.3e-journal-plugin-yearly-note-template-by-dee|Yearly Note Template by Dee]]
 > Templat merupakan pengembangan dari quarter note template
 
 
 [1:41:29](https://www.youtube.com/watch?t=6089&v=m5SYja0V29w) New Note
-> [! note] New Note Template
+> [!note] New Note Template
 > [1:41:34](https://www.youtube.com/watch?t=6094&v=m5SYja0V29w) cek fail templat berikut: [[8.3f-journal-plugin-new-note-template-by-dee|New Note Template by Dee]]
 
 

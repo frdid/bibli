@@ -2,6 +2,7 @@
 title: How to Take Smart Notes
 subtitle: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers
 description: 
+permalink: bibli/sonke-ahrens-how-to-take-smart-notes
 aliases:
   - How to Take Smart Notes
   - Ahrens, 2017

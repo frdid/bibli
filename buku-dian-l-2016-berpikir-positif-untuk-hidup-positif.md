@@ -1,7 +1,7 @@
 ---
 title: Berpikir Positif untuk Hidup Positif
 description: 
-permalink: 
+permalink: bibli/dian-l-berpikir-positif-untuk-hidup-positif
 aliases:
   - Berpikir Positif untuk Hidup Positif
 tags:
@@ -18,7 +18,7 @@ indexes:
 date: 2024-10-01
 draft: false
 ---
-Update buku Berpikir Positif untuk Hidup Sehat karya Dian L. 
+Update buku Berpikir Positif untuk Hidup Sehat karya Dian L.  
 
 ---
 

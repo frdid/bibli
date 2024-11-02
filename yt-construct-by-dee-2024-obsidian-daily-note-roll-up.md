@@ -1,7 +1,7 @@
 ---
 title: Obsidian Daily Note roll-up (Weekly, Monthly, Quarterly, and Yearly) - Full setup from scratch!
 description: 
-permalink: yt-obsidian-journal-by-dee
+permalink: bibli/yt-obsidian-journal-by-dee
 aliases:
   - Obsidian Journal by Dee
 tags: 
@@ -16,17 +16,17 @@ c_platform: YouTube
 c_published: 2024-08-23
 ---
 - [02:59](https://www.youtube.com/watch?t=179&v=m5SYja0V29w) Buat vault baru
-
+ 
 - [05:26](https://www.youtube.com/watch?t=326&v=m5SYja0V29w) Setup folder
 	- Attachments
-	- Journal
+	- Journal 
 		- 01 Daily
-		- 02 Weekly
+		- 02 Weekly 
 		- 03 Monthly 
 		- 04 Quarterly
 		- 05 Yearly
 	- Notes
-	- Templates
+	- Templates 
 		- log Templates
 
 

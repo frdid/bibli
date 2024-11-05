@@ -142,7 +142,7 @@ c_published: 2024-08-23
 	- [1:04:01](https://www.youtube.com/watch?t=3841&v=m5SYja0V29w) Log highlight [1:04:19](https://www.youtube.com/watch?t=3859&v=m5SYja0V29w) Templater code: cursor.
 - [1:07:16](https://www.youtube.com/watch?t=4036&v=m5SYja0V29w) Mengisi data Wheel of Life.
 	- [1:07:40](https://www.youtube.com/watch?t=4060&v=m5SYja0V29w) Kebiasaan Dee biasanya membuat section bernama `Week Prep` untuk menjelaskan apa saja yang ingin digapai dalam pekan. 
-	- [1:10:09](https://www.youtube.com/watch?t=4209&v=m5SYja0V29w) Untuk memonitoring suatu aktivitas bisa memanfaatkan dataview milik `highlight` lalu ubah tagnya sesuai kebutuhan, misal, #log/meditation.
+	- [1:10:09](https://www.youtube.com/watch?t=4209&v=m5SYja0V29w) Untuk memonitoring suatu aktivitas bisa memanfaatkan dataview milik `highlight` lalu ubah tagnya sesuai kebutuhan, misal, (#log/meditation).
 
 
 

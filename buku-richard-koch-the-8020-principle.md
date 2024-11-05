@@ -17,6 +17,7 @@ c_cover: http://books.google.com/books/content?id=V4NYEAAAQBAJ&printsec=frontcov
 isbn: "ISBN10: 1399801899 & ISBN13: 9781399801898"
 c_status: reading
 draft: false
+permalink: bibli/richard-koch-the-8020-principle
 ---
 
 - 4: Apa itu prinsip 80/20? 

@@ -1,7 +1,7 @@
 ---
 title: Pirámide de backlinks (Piramida Tautan Balik/Backlink)
 description: 
-permalink: 
+permalink: bibli/medium-alekseigurkin-2024-piramida-backlink
 aliases:
   - Piramida Backlink
 tags: 

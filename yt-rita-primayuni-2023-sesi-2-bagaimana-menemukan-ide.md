@@ -2,6 +2,7 @@
 tags:
   - video
 title: Sesi 2 | Bagaimana Menemukan Ide
+permalink: bibli/yt-rita-primayuni-bagaimana-menemukan-ide
 aliases:
   - Bagaimana Menemukan Ide menurut Rita Primayuni
 draft: false

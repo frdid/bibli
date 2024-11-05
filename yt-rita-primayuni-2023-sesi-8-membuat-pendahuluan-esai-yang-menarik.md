@@ -1,7 +1,7 @@
 ---
 title: Sesi 8 | Membuat Pendahuluan Esai yang Menarik
 description: 
-permalink: 
+permalink: bibli/yt-rita-primayuni-membuat-pendahuluan-esai-yang-menarik
 aliases:
   - Membuat Pendahuluan Esai yang Menarik ft. Rita Primayuni
 tags:

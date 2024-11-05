@@ -1,7 +1,7 @@
 ---
 title: Sesi 5 | Menyusun Outline Esai
 description: 
-permalink: yt-rita-primayuni-2023-menyusun-outline-esai
+permalink: bibli/yt-rita-primayuni-2023-menyusun-outline-esai
 aliases:
   - Menyusun Outline Esai
 tags:

@@ -1,10 +1,11 @@
 ---
 title: Sesi 3 | Ide Esai yang Smart dan Innovative
 description: 
-permalink: 
+permalink: bibli/yt-rita-primayuni-ide-esai-yang-smart-dan-inovative
 aliases:
   - Sesi 3-Ide Esai yang Smart dan Innovative
-tags: 
+tags:
+  - video
 draft: false
 date: 2024-10-19
 indexes:

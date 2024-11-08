@@ -5,7 +5,7 @@ permalink: bibly/yt-rita-primayuni-variasi-pembukaan-saat-presentasi-lomba
 aliases:
   - Variasi pembukaan saat presentasi lomba ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

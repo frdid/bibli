@@ -4,7 +4,7 @@ aliases:
   - Raditya Dika ft. Pamungkas
   - Jurus Pamungkas Ketika Bikin Lagu
 tags:
-  - video
+  - sumber/video
 indexes: 
 media_link: https://www.youtube.com/watch?v=toojhrV2Abs&t=1
 c_creator:

@@ -3,7 +3,7 @@ title: Yang Suka Disuruh-Suruh, Nonton Ini!
 aliases:
   - Yang Suka Disuruh-Suruh, Nonton Ini!
 tags:
-  - video
+  - sumber/video
 indexes: 
 draft: false
 media_link: https://www.youtube.com/watch?v=NdsHlBsqCjM

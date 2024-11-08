@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-apa-saja-yang-dinilai-saat-final-esai
 aliases:
   - Apa saja yang dinilai saat final esai ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

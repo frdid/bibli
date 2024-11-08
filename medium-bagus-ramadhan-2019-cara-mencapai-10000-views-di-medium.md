@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Begini Cara Saya Sukses Mencapai 10.000 Views di Medium
 tags:
-  - artikel
+  - sumber/artikel
 draft: false
 date: 2024-10-23
 indexes:

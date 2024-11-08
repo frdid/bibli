@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Why Koreans dress better ft. Wanhee
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

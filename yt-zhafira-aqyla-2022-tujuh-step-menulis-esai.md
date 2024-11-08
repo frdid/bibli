@@ -3,7 +3,7 @@ title: 7 Step Cara Nulis Esai dengan Contoh 🧑‍💻
 aliases:
   - 7 Step Cara Nulis Esai versi Zhafira
 tags:
-  - video
+  - sumber/video
 indexes:
   - "[[cm-kepenulisan|MOC Kepenulisan]]"
 media_link: https://www.youtube.com/watch?v=VdHHkL-joIc

@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Pembuatan Pendahuluan Esai yang Kuat ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-23
 indexes:

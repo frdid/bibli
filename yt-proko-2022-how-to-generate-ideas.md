@@ -5,8 +5,8 @@ permalink:
 aliases:
   - How to Generate Ideas to Draw or Paint
 tags:
-  - video
   - seni
+  - sumber/video
 draft: true
 date: 2024-10-27
 indexes: 

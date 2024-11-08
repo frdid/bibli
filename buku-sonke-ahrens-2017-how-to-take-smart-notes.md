@@ -18,7 +18,7 @@ cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodrea
 isbn: "ISBN10: 1393776817 - ISBN13: 9781393776819"
 status: reading
 tags:
-  - buku
+  - sumber/buku
 date: 2024-10-13
 ---
 [Catatan dari buku How to Take Smart Notes milik Sonke Ahrens.](<Ini adalah catatan penanda yang saya tuliskan saat membaca buku [*How to Take Smart Notes* karya Sönke Ahrens](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) dalam versi *ebook (epub)*. Jika kamu membacanya dalam versi buku fisik mungkin akan mengalami sedikit perubahan nomor halaman. Secara garis besar, dari buku tersebut kamu akan mendapatkan sedikit informasi terkait hal-hal yang saya tuliskan dalam catatan ini. 

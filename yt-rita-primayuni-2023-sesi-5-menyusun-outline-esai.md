@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-primayuni-2023-menyusun-outline-esai
 aliases:
   - Menyusun Outline Esai
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-23
 indexes:

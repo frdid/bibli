@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-primayuni-2023-penutup-esai-yang-singkat-padat-dan-jela
 aliases:
   - Penutup esai yang singkat, padat, dan jelas ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

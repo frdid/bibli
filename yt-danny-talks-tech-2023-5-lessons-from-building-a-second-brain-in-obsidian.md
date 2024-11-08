@@ -5,7 +5,7 @@ permalink:
 aliases:
   - 5 Lessons from building a second brain in Obsidian
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-15
 indexes: 

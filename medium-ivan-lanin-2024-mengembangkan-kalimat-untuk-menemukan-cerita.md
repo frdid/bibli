@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Mengembangkan Kalimat untuk Menemukan Cerita
 tags:
-  - artikel
+  - sumber/artikel
 draft: true
 date: 2024-10-17
 indexes:

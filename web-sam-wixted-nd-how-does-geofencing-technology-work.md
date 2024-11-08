@@ -5,7 +5,7 @@ permalink:
 aliases:
   - How Does Geofencing Technology Work
 tags:
-  - artikel
+  - sumber/artikel
 draft: false
 date: 2024-10-18
 indexes: 

@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Kriteria Judul Esai yang Baik versi Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-23
 indexes:

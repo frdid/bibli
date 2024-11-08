@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-primayuni-mengenal-bidang-keahlian-dewan-juri
 aliases:
   - Mengenal bidang keahlian dewan juri ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

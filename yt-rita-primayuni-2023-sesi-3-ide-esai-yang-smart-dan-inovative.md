@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-primayuni-ide-esai-yang-smart-dan-inovative
 aliases:
   - Sesi 3-Ide Esai yang Smart dan Innovative
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-19
 indexes:

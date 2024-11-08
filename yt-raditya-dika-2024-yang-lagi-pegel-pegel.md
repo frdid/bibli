@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Yang Lagi Pegel-Pegel, Nonton Ini!
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-14
 indexes: 

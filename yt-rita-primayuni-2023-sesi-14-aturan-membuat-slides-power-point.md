@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-primayuni-aturan-membuat-slides-power-point
 aliases:
   - Aturan membuat slide power point lomba esai ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

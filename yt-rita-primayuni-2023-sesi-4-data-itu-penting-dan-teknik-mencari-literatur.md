@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-data-itu-penting-dan-teknik-mencari-literatur
 aliases:
   - Sesi 4-Data Itu Penting dan Teknik Mencari Literatur
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-19
 indexes: 

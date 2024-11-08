@@ -5,7 +5,7 @@ permalink: bibli/dian-l-berpikir-positif-untuk-hidup-positif
 aliases:
   - Berpikir Positif untuk Hidup Positif
 tags:
-  - buku
+  - sumber/buku
 publisher: Pustaka Baru Press
 publish: 2016-09-06
 c_creator:

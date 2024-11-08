@@ -1,6 +1,6 @@
 ---
 tags:
-  - video
+  - sumber/video
 title: Sesi 2 | Bagaimana Menemukan Ide
 permalink: bibli/yt-rita-primayuni-bagaimana-menemukan-ide
 aliases:

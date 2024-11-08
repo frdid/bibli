@@ -3,7 +3,7 @@ title: Memulai Perjalanan Menulismu bersama Dee Lestari
 aliases:
   - Memulai Perjalanan Menulismu bersama Dee Lestari
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-19
 indexes:

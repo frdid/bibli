@@ -5,7 +5,7 @@ permalink: bibli/yt-rita-primayuni-membuat-pendahuluan-esai-yang-menarik
 aliases:
   - Membuat Pendahuluan Esai yang Menarik ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-23
 indexes:

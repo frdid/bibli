@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Is The Zettelkasten Method Really The Best Personal Knowledge Management System
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-09
 media_link: https://www.youtube.com/watch?v=OrN0kaE6DkY

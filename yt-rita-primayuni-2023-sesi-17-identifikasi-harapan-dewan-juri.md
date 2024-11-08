@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Identifikasi harapan dewan juri ft. Rita Primayuni
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-11-05
 indexes: 

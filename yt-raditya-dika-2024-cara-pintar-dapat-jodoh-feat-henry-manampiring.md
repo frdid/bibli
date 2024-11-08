@@ -5,7 +5,7 @@ permalink:
 aliases:
   - Siniar Raditya Dika ft. Henry Manampiring
 tags:
-  - video
+  - sumber/video
 draft: false
 date: 2024-10-13
 indexes: 

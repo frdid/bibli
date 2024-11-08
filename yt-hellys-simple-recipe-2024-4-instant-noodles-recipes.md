@@ -5,8 +5,8 @@ permalink:
 aliases:
   - Resep Mi Instan
 tags:
-  - video
-  - resep
+  - sumber/video
+  - resep/mi
 draft: true
 date: 2024-10-29
 indexes: 

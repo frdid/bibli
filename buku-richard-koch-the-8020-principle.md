@@ -1,6 +1,6 @@
 ---
 tags:
-  - buku
+  - sumber/buku
 title: The 80/20 Principle
 subtitle: "Achieve More with Less: THE NEW 2022 EDITION OF THE CLASSIC BESTSELLER"
 aliases:

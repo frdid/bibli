@@ -3,7 +3,7 @@ title: How I Learn Anything For Free
 description: 
 permalink: 
 aliases:
-  - How I Learn Anything For Free
+  - How I Learn Anything For Free - Axel Casas
 tags: 
 draft: false
 date: 2024-10-18
